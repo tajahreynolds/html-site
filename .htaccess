@@ -1,6 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile "/home/reynolt4/.htpasswd"
-Require valid-user
-RedirectMatch 404 /\.git
-
