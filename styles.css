@@ -1,20 +1,35 @@
 * {
 	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
 }
 
-.site-top {
-	float: left;
-	
+.site {
+	display: grid;
+	grid-template-rows: 5;
+	grid-template-columns: 12;
 }
 
-.site-header {
-
-}
-
-.site-main {
+.navbar {
 
 }
 
-.site-footer {
+.masthead {
+
+}
+
+.recent-posts {
+
+}
+
+.main-content {
+
+}
+
+.aside {
+
+}
+
+.footer {
 
 }
